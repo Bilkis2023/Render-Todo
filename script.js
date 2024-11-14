@@ -1,7 +1,7 @@
 var todoForm = document.querySelector("#todo-form");
 var todoInput = document.querySelector("#todo-text");
 var todoCountSpan = document.querySelector("#todo-count");
-var todoList = document.querySelector("todo-list");
+var todoList = document.querySelector("#todo-list");
 
 var todos = ["Learn Html", "Learn CSS", "Learn JacaScript"];
 
